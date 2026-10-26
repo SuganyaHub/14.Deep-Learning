@@ -1,0 +1,7 @@
+streamlit>=1.36
+ultralytics>=8.3
+tensorflow>=2.13
+opencv-python-headless>=4.8
+numpy
+Pillow
+scikit-learn
